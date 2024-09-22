@@ -1,4 +1,4 @@
-# ml-days
+# ml-boost
 
 # Week 1: 
 * Study W1 and W2 from [Supervised Machine Learning: Regression and Classification](https://www.coursera.org/learn/machine-learning/)
