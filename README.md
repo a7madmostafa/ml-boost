@@ -24,10 +24,10 @@
 
 
 # Week 7:
-* Study W1 of [Unsupervised Learning, Recommenders, Reinforcement Learningnsupervised Learning](Unsupervised Learning, Recommenders, Reinforcement Learning)
+* Study W1 of [Unsupervised Learning, Recommenders, Reinforcement Learning](https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning)
 
 # Week 8:
-* Study W2 of [Unsupervised Learning, Recommenders, Reinforcement Learningnsupervised Learning](Unsupervised Learning, Recommenders, Reinforcement Learning)
+* Study W2 of [Unsupervised Learning, Recommenders, Reinforcement Learning](https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning)
 
 # Week 9:
-* Study W3 of [Unsupervised Learning, Recommenders, Reinforcement Learningnsupervised Learning](Unsupervised Learning, Recommenders, Reinforcement Learning)
+* Study W3 of [Unsupervised Learning, Recommenders, Reinforcement Learning](https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning)
