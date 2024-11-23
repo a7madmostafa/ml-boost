@@ -21,3 +21,13 @@
 # Week 6:
 * Study W4 of [Advanced Learning Algorithms](https://www.coursera.org/learn/advanced-learning-algorithms/)
 * Study "Decision Trees & XGBoost" & " Credit risk scoring project" from [ML Zoomcamp](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master/06-trees)
+
+
+# Week 7:
+* Study W1 of [Unsupervised Learning, Recommenders, Reinforcement Learningnsupervised Learning](Unsupervised Learning, Recommenders, Reinforcement Learning)
+
+# Week 8:
+* Study W2 of [Unsupervised Learning, Recommenders, Reinforcement Learningnsupervised Learning](Unsupervised Learning, Recommenders, Reinforcement Learning)
+
+# Week 9:
+* Study W3 of [Unsupervised Learning, Recommenders, Reinforcement Learningnsupervised Learning](Unsupervised Learning, Recommenders, Reinforcement Learning)
